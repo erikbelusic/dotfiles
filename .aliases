@@ -1,0 +1,23 @@
+alias vm='farmhouse ssh'
+alias vmu='farmhouse up'
+alias vmh='farmhouse halt'
+alias vmp='farmhouse provision'
+alias vmup='farmhouse up --provision'
+alias art='php artisan'
+alias mou="open /Applications/Mou.app"
+
+# Easier navigation: .., ..., ...., ....., ~ and -
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
+alias ~="cd ~" # `cd` is probably faster to type though
+alias -- -="cd -"
+
+# Shortcuts
+alias d="cd ~/Documents/Dropbox"
+alias dl="cd ~/Downloads"
+alias dt="cd ~/Desktop"
+alias p="cd ~/Projects"
+alias g="git"
+alias h="history"
