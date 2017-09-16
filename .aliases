@@ -15,12 +15,9 @@ alias fucking=sudo
 
 # Shortcuts
 
-alias v=vagrant
 alias g=git
-alias d='cd ~/Documents/Dropbox'
 alias dl='cd ~/Downloads'
 alias dt='cd ~/Desktop'
-alias p='cd ~/Projects'
 alias h=history
 alias c=clear
 
@@ -35,17 +32,8 @@ alias ga='git add'
 alias gaa='git add .'
 alias gc='git commit -m'
 
-# Homestead VM shortcuts
-
-alias vme='subl ~/.homestead/Homestead.yaml'
-alias vm='cd ~/Projects/homestead7; vagrant ssh'
-alias vmu='cd ~/Projects/homestead7; vagrant up'
-alias vmh='cd ~/Projects/homestead7; vagrant halt'
-alias vmp='cd ~/Projects/homestead7; vagrant provision'
-alias vmup='cd ~/Projects/homestead7; vagrant up --provision'
-alias vms='cd ~/Projects/homestead7; vagrant status'
+# Laravel
 alias art='php artisan'
-alias mou='open /Applications/Mou.app'
 
 # Easier navigation: .., ..., ...., ....., .4, .5, ~ and -
 
