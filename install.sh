@@ -11,7 +11,7 @@
 # License URI:
 
 
-# TODO: fix colorize
+# TODO: fix colorize.sh
 
 
 ################################################################################
@@ -27,7 +27,7 @@ readonly BASEDIR=$(dirname $0)
 
 
 
-source $BASEDIR/utils/bootstrap
+source $BASEDIR/utils/bootstrap.sh
 
 echo "Do not run this script unless you know what it will do. Hit Ctrl-C NOW"
 read -n 1
