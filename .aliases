@@ -1,4 +1,6 @@
 #!/bin/bash
+# File expects to be located at ~/.aliases
+# To add functions that should not be shared create and use ~/.aliases.local
 
 # Aliases
 #========================
@@ -33,6 +35,8 @@ alias gp='git pull'
 alias ga='git add'
 alias gaa='git add .'
 alias gc='git commit -m'
+alias gl='git log'
+alias glo='git log --oneline --graph --decorate --all'
 
 # Laravel
 alias art='php artisan'
@@ -49,7 +53,7 @@ alias ~='cd ~' # `cd` is probably faster to type though
 alias -- -='cd -'
 
 # Other stuff
-alias hosts='subl /etc/hosts'
+#alias hosts='subl /etc/hosts'
 alias ping='ping -c 5'
 
 # IP addresses
@@ -74,3 +78,8 @@ alias hidedesktop="defaults write com.apple.finder CreateDesktop -bool false && 
 # zshrc config
 alias zshrc="${EDITOR} ${$(cd -P $(dirname $0) && cd ..; pwd -P)}"
 alias reload="source ~/.zshrc && echo 'Shell config reloaded from ~/.zshrc'"
+
+# This should be the last line of the file
+# Allows for local changes
+# Don't make edits below this
+[ -f ".aliases.local" ] && source ".aliases.local"

@@ -1,4 +1,6 @@
 #!/bin/bash
+# File expects to be located at ~/.functions
+# To add functions that should not be shared create and use ~/.functions.local
 
 # Create a new directory and enter it
 unalias md
@@ -55,3 +57,8 @@ function extract() {
     echo "'$1' is not a valid file"
   fi
 }
+
+# This should be the last line of the file
+# Allows for local changes
+# Don't make edits below this
+[ -f ".functions.local" ] && source ".functions.local"

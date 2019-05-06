@@ -1,5 +1,8 @@
 # dotfiles
 
+clone to ~/.dotfiles
+
+
 ## wishlist
 ### features
 - [ ] checks for updates
@@ -10,3 +13,6 @@
 - [ ] oh-my-zsh
 - [ ] zsh space ship
 - [ ] home brew
+### preferences
+- [ ] iterm
+- [ ] rubymine
