@@ -37,6 +37,8 @@ alias gaa='git add .'
 alias gc='git commit -m'
 alias gl='git log'
 alias glo='git log --oneline --graph --decorate --all'
+alias gdb='git branch --merged | egrep -v "(^\*|master)" | xargs git branch -d'
+
 
 # Laravel
 alias art='php artisan'
