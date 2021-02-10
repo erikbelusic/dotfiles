@@ -1,6 +1,8 @@
 # dotfiles
 
-clone to ~/.dotfiles
+Well...... I recently bricked my macbook by updating to 11.2.1 - SAD - instead of attempting to restore from a backup - i just wiped my computer. so - i will revist these.
+
+This will set up a mac primarily for rails development. It should also be idempotent so it could be re-run
 
 
 ## wishlist
@@ -16,3 +18,6 @@ clone to ~/.dotfiles
 ### preferences
 - [ ] iterm
 - [ ] rubymine
+
+## Instructoins
+clone to ~/.dotfiles
