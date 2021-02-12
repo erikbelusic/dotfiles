@@ -1,0 +1,55 @@
+# Aliases
+#========================
+
+# I hate trying to reload my zshrc
+alias reload_zsh='source ~/.zshrc'
+
+# I can't spell for shit
+
+alias sl=ls
+alias mdkir=mkdir
+alias soruce=source
+alias souce=source
+alias brwe=brew
+alias compser=composer
+
+# Just for fun
+
+alias fucking=sudo
+
+# Shortcuts
+
+alias g=git
+alias dl='cd ~/Downloads'
+alias dt='cd ~/Desktop'
+alias h=history
+alias c=clear
+alias co='cd ~/Code'
+
+# Git Shortcuts
+
+alias gpom='git push origin master'
+#alias gpod='git push origin development'
+#alias grom='git reset --hard origin/master'
+alias gs='git status'
+alias gp='git pull'
+alias ga='git add'
+alias gaa='git add .'
+alias gc='git commit -m '
+alias gl='git log'
+alias glo='git log --oneline --graph --decorate --all'
+
+# Easier navigation: .., ..., ...., ....., .4, .5, ~ and -
+
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+alias .....='cd ../../../..'
+alias .4='cd ../../../../'
+alias .5='cd ../../../../..'
+alias ~='cd ~' # `cd` is probably faster to type though
+alias -- -='cd -'
+
+# Other stuff
+
+alias ping='ping -c 5'
