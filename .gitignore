@@ -1,2 +1,4 @@
 .DS_Store
 .idea
+BACKUPS/*
+!BACKUPS/.keep
