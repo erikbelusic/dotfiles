@@ -1,0 +1,168 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RM-182.4505.55" />
+              <option name="buildTimestamp" value="1539005531864" />
+              <option name="productionCode" value="RM" />
+              <option name="projectOpenTimestamp" value="1564164244920" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/api-integration-tests">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RM-182.4505.55" />
+              <option name="buildTimestamp" value="1539005520215" />
+              <option name="productionCode" value="RM" />
+              <option name="projectOpenTimestamp" value="1606846727810" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/audit-testing">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RM-182.4505.55" />
+              <option name="buildTimestamp" value="1539005522241" />
+              <option name="productionCode" value="RM" />
+              <option name="projectOpenTimestamp" value="1545149983824" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/ccloud">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RM-182.4505.55" />
+              <option name="buildTimestamp" value="1539005573171" />
+              <option name="productionCode" value="RM" />
+              <option name="projectOpenTimestamp" value="1551372202208" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/fullstack">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RM-182.4505.55" />
+              <option name="buildTimestamp" value="1539005537833" />
+              <option name="productionCode" value="RM" />
+              <option name="projectOpenTimestamp" value="1600186239922" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/uniteus-grpc-client">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RM-182.4505.55" />
+              <option name="buildTimestamp" value="1539005554926" />
+              <option name="productionCode" value="RM" />
+              <option name="projectOpenTimestamp" value="1608659468870" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/uniteus-hq/db">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RM-182.4505.55" />
+              <option name="buildTimestamp" value="1539005556122" />
+              <option name="productionCode" value="RM" />
+              <option name="projectOpenTimestamp" value="1608135599353" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/core-maintenance-scripts">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RM-182.4505.55" />
+              <option name="buildTimestamp" value="1539005562131" />
+              <option name="productionCode" value="RM" />
+              <option name="projectOpenTimestamp" value="1601313778871" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/ops">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ops" projectWorkspaceId="1n27BfqgP5rUZ66QWk169VeKIh1">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RM-203.6682.166" />
+              <option name="buildTimestamp" value="1609232470505" />
+              <frame x="0" y="23" width="1920" height="1139" />
+              <option name="productionCode" value="RM" />
+              <option name="projectOpenTimestamp" value="1610576197285" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/uniteus-api">
+          <value>
+            <RecentProjectMetaInfo frameTitle="uniteus-api – export_provisioning_configurations.rb" projectWorkspaceId="1mywjSxiKroXRKveSCIIoTGxbGi">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RM-203.7148.67" />
+              <option name="buildTimestamp" value="1611665970574" />
+              <frame x="0" y="23" width="1920" height="1139" />
+              <option name="productionCode" value="RM" />
+              <option name="projectOpenTimestamp" value="1612980275281" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/uniteus-hq">
+          <value>
+            <RecentProjectMetaInfo frameTitle="uniteus-hq – export_dashboard_controller_spec.rb" projectWorkspaceId="1mym4qXr4Eopja1eMBo3lly1L3s">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RM-203.7148.67" />
+              <option name="buildTimestamp" value="1611665945352" />
+              <frame x="0" y="173" width="1920" height="1027" extendedState="6" />
+              <option name="productionCode" value="RM" />
+              <option name="projectOpenTimestamp" value="1613581190254" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/uniteus-auth">
+          <value>
+            <RecentProjectMetaInfo frameTitle="uniteus-auth" projectWorkspaceId="1mvjDIAsFroREbkt0zfzwpaiOdY">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RM-203.7148.67" />
+              <option name="buildTimestamp" value="1611665945352" />
+              <frame x="0" y="23" width="1920" height="1139" />
+              <option name="productionCode" value="RM" />
+              <option name="projectOpenTimestamp" value="1613670864963" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/uniteus-provider-core">
+          <value>
+            <RecentProjectMetaInfo frameTitle="uniteus-provider-core" projectWorkspaceId="1mvjgn0temhTHGvTdEXJs7wFMUd">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RM-203.7148.67" />
+              <option name="buildTimestamp" value="1611665945352" />
+              <frame x="0" y="23" width="1920" height="1139" />
+              <option name="productionCode" value="RM" />
+              <option name="projectOpenTimestamp" value="1613753637839" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/end-to-end-tests">
+          <value>
+            <RecentProjectMetaInfo frameTitle="end-to-end-tests – create_multi_referral_spec.rb" opened="true" projectWorkspaceId="1nLDzaN7VcN3l19fuXsAFwNajvA">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RM-203.7148.67" />
+              <option name="buildTimestamp" value="1611665945352" />
+              <frame x="0" y="23" width="1920" height="1139" />
+              <option name="productionCode" value="RM" />
+              <option name="projectOpenTimestamp" value="1613754258392" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

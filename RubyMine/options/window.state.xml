@@ -1,0 +1,30 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.0.0.3840.2400@192dpi" x="1320" y="662" />
+    <location key="find.popup.0.0.2560.1440" x="1374" y="296" />
+    <size key="find.popup.0.0.3840.2400@192dpi" width="1200" height="1044" />
+    <size key="find.popup.0.0.2560.1440" width="600" height="783" />
+  </component>
+  <component name="WindowManager">
+    <frame x="0" y="23" width="1920" height="1139" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="462" y="152" width="997" height="722" key="SettingsEditor" timestamp="1610381036394">
+      <screen x="0" y="23" width="1920" height="1139" />
+    </state>
+    <state x="462" y="152" width="997" height="722" key="SettingsEditor/0.23.1920.1139" timestamp="1610381036394" />
+    <state x="960" y="511" key="WELCOME_SCREEN" timestamp="1613156189803">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="960" y="511" key="WELCOME_SCREEN/0.0.1920.1200" timestamp="1613156189803" />
+    <state x="960" y="513" key="WELCOME_SCREEN/0.23.1920.1139" timestamp="1611093495873" />
+  </component>
+</application>

@@ -1,0 +1,34 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="$USER_HOME$/.rvm/rubies/ruby-2.5.1/bin/ruby:BASE_20" value="0.2.3.beta2" />
+    <property name="$USER_HOME$/.rvm/rubies/ruby-2.5.1/bin/ruby:IDE" value="0.7.0.beta6" />
+    <property name="ColorChooser.RecentColors" value="255-53-90-255,,,238-255-255-255,,,255-83-0-255,,,255-83-112-255,,,255-152-0-255,,,233-30-99-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.69930875" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML4 File" />
+    <property name="KEYMAP" value="annotate&#10;navigate to file" />
+    <property name="MTBorderPopup" value="true" />
+    <property name="MTTabsHeight" value="42" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="OpenOrAttachDialog.OpenMode" value="new" />
+    <property name="PLUGIN_FILTER" value="mater" />
+    <property name="Ruby.initialConfigurationShown" value="true" />
+    <property name="RubyMine.full.reindex.required" value="1" />
+    <property name="SearchEveryWhereHistory" value="an&#10;ann&#10;annotate&#10;anno&#10;moveright" />
+    <property name="SettingsSearchHistory" value="mater&#10;asso&#10;theme" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="DARKER" />
+    <property name="evlsprt3.182" value="19" />
+    <property name="file.gist.reindex.count" value="27658" />
+    <property name="fileTypeChangedCounter" value="33" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="selected.color.option.type" value="RUBY_METHOD_NAME" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.ruby" value="Tabs and Indents" />
+    <property name="ts.lib.d.ts.version" value="3.0.1" />
+  </component>
+</application>
