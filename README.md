@@ -35,3 +35,6 @@ clone to ~/.dotfiles
 - paste
 - vlc
 - ???? hazel - https://www.noodlesoft.com/store
+- onyx
+- cleanmymac x
+- 
