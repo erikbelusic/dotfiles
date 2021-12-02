@@ -33,4 +33,5 @@ clone to ~/.dotfiles
 - datagrip
 - iterm
 - paste
-- 
+- vlc
+- ???? hazel - https://www.noodlesoft.com/store
