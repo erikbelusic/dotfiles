@@ -31,4 +31,6 @@ clone to ~/.dotfiles
 - jetbrains
 - rubymine
 - datagrip
+- iterm
+- paste
 - 
