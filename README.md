@@ -21,3 +21,14 @@ This will set up a mac primarily for rails development. It should also be idempo
 
 ## Instructoins
 clone to ~/.dotfiles
+
+## Apps
+- alfred
+- 1password
+- amphetamine
+- chrome
+- firefox
+- jetbrains
+- rubymine
+- datagrip
+- 
